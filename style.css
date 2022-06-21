@@ -1,11 +1,11 @@
 div{
-    background-color: rgb(123, 189, 16);
-    width: 70%;
-    border: 10px solid rgb(10, 42, 185);
+    background-color: rgb(16, 120, 189);
+    width: 60%;
+    border: 10px solid rgb(185, 10, 97);
     border-radius: 150%;
     text-align: center;
     margin: 15px auto;
-    border-radius: 15%;
+    border-radius: 20%;
     font-family: 'Courier New', Courier, monospace;
     }
     img{
